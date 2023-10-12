@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone with View Transitions
 
 
 ## 🧞 Commands
